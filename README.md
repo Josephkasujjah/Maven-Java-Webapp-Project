@@ -55,3 +55,4 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
 # coment
 # this is a new comment
+# my second comment
